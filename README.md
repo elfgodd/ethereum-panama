@@ -1,70 +1,24 @@
-# Getting Started with Create React App
+## OrbitBase Certifications
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+B2B Proyecto OB CERT, que busca implementar la subida de certificados a la blockchain de Ethereum, para que institutos educativos o empresas puedan validar que sus estudiantes y clientes estan certificados por dicha entidad
 
-## Available Scripts
+## Que resuelve?
 
-In the project directory, you can run:
+Validar que tanto la empresa o el usuario es acreditor de este fin especifico, y asi validar ejemplo para una entrevista laboral o para un requisito laboral tiene dicha destreza
 
-### `npm start`
+## A quien se le ofreceria?
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Inicialmente a Empresas o Instituciones educativas necesiten validar de una manera decentralizada y sin invertir en costoso software este tipo de soluciones que le daran valor al momento de tener prospectos y mostrarle este beneficio
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Competencia?
 
-### `npm test`
+- Linkedin, no ofrece de manera decentralizada y solo sirve para ellos como empresa pero no para otros institutos o empresas
+- Udemy, no ofrece de manera decentralizada y solo sirve para ellos como empresa pero no para otros institutos o empresas
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Prototipo informacion?
 
-### `npm run build`
+Este es solo un mvp prototipo la idea es mejorarlo para que tenga un dashboard y las empresas puedan subir los certificados y agregarlos a usuarios y agregar tags
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Que viene pasos?
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Agregar tags para que empresas puedan ingresar o personas y encontrar personas tengan este tipo de certificados destrezas
