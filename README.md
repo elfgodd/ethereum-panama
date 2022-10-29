@@ -1,5 +1,8 @@
 ## OrbitBase Certifications
 
+Equipo: Alberto Guzman full stack developer with javascript technologies and ethereum
+Video link: https://youtu.be/ez_2A789Umg
+
 B2B Proyecto OB CERT, que busca implementar la subida de certificados a la blockchain de Ethereum, para que institutos educativos o empresas puedan validar que sus estudiantes y clientes estan certificados por dicha entidad
 
 ## Que resuelve?
@@ -22,3 +25,7 @@ Este es solo un mvp prototipo la idea es mejorarlo para que tenga un dashboard y
 ## Que viene pasos?
 
 Agregar tags para que empresas puedan ingresar o personas y encontrar personas tengan este tipo de certificados destrezas
+
+git branch -M main
+git remote add origin https://github.com/elfgodd/ethereum-panama.git
+git push -u origin main
